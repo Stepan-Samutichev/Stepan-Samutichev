@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Stepan-Samutichev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning HTML5, CSS, SCSS, sass, Tailwind CSS, JavaScript, Vue.js, Vue CLI, Nuxt.js, npm
+- 📫 My e-mail: samutichev@internet.ru
+- 🌍 I live in Petrozavodsk, Republic of Karelia, Russian Federation
 
 <!---
 Stepan-Samutichev/Stepan-Samutichev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
