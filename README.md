@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stepan-Samutichev
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML5, CSS, sass, SCSS, Tailwind CSS, JavaScript, TypeScript, Vue.js, Vue CLI, Nuxt.js, npm
+- 🌱 I’m currently learning HTML5, CSS, SCSS, sass, Tailwind CSS, JavaScript, TypeScript, Vue.js, Vue CLI, Nuxt.js, npm, Electron, Python
 - 📫 My e-mail: samutichev@internet.ru
 - 🌍 I live in Petrozavodsk, Republic of Karelia, Russian Federation
 
