@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stepan-Samutichev
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Tailwind CSS, Mantine, Mantine UI, TypeScript, Vue.js, Nuxt.js, React, Vite, Next.js, Express.js, MongoDB, GraphQL, React Native, Tauri, Electron
+- 🌱 I’m currently learning Tailwind CSS, Mantine, TypeScript, Vue.js, Nuxt.js, React, Vite, Next.js, Express.js, MongoDB, GraphQL, React Native, Tauri, Electron
 - 📫 My e-mail: samutichev@internet.ru
 - 🌍 I live in Petrozavodsk, Republic of Karelia, Russian Federation
 
