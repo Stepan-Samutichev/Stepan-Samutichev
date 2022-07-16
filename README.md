@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Stepan-Samutichev
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Tailwind CSS, Mantine, TypeScript, Vue.js, Nuxt.js, React, Vite, Next.js, Express.js, MongoDB, GraphQL, React Native, Tauri, Electron
-- 📫 My e-mail: samutichev@internet.ru
+# Hello!
 
-<!---
-Stepan-Samutichev/Stepan-Samutichev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 I’m @Stepan-Samutichev
+- 👀 I’m interested in __Frontend__
+- 🌱 I’m currently learning _TypeScript_, _Vue.js_, _Nuxt.js_, _React_, _Next.js_, _Express.js_, _MongoDB_, _GraphQL_, _React Native_, _Tauri_, _Electron_
+- 📫 My e-mail: samutichev@internet.ru
